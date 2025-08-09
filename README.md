@@ -1,4 +1,4 @@
-# SIM808 GPRS Communication Library for STM32
+# GPRS Communication Library for STM32F407x using SIM808 module
 
 ## Overview
 
@@ -9,7 +9,7 @@ This project provides a library for communicating with the SIM808 module via UAR
 - UART communication with SIM808 module
 - HTTP GET and POST requests
 - GPRS connection management
-- Basic error handling
+- Testing and error handling
 - STM32 HAL compatible
 
 ## Hardware Requirements
@@ -24,6 +24,7 @@ This project provides a library for communicating with the SIM808 module via UAR
 - STM32CubeIDE or compatible toolchain
 - STM32 HAL libraries
 - Standard C libraries
+- ST Link
 
 ## Installation
 
